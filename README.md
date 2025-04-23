@@ -1,6 +1,6 @@
 # Chicago Crime Prediction Project
 
-This project predicts the type of crime likely to occur at a specific location, time, and date in Chicago using a Deep Learning model. It also visualizes crime data on an interactive map using Streamlit.
+Problem Statement: Predict the type of crime likely to occur at a specific location, time, and date in Chicago using a Deep Learning model. Visualize crime data on an interactive map using Streamlit.
 
 ## Features
 
