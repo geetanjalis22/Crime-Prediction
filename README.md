@@ -33,7 +33,7 @@ Make sure to rename it to `chicago_crime.csv` and place it in the `data/` folder
 - Extend to other cities
 - Integrate with live data APIs
 
-Technologies & Concepts Used
+## Technologies & Concepts Used
 ## Machine Learning & Deep Learning
 TensorFlow/Keras – for building and training the neural network.
 
